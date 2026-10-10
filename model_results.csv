@@ -1,0 +1,7 @@
+Model,Architecture,Augmentation,Transfer Learning,Test Accuracy,Parameters
+LeNet-5,LeNet-5,No,No,0.5212000012397766,62006
+CNN Scratch No Aug,Custom CNN,No,No,0.7879999876022339,175018
+CNN Scratch + Aug,Custom CNN,ImageDataGenerator,No,0.8392000198364258,175018
+CNN + Keras Aug Layers,Custom CNN,Keras layers,No,0.7820000052452087,175018
+MobileNetV2 Feature Extraction,MobileNetV2,No,Feature Extraction,0.7874000072479248,2423242
+MobileNetV2 Fine-Tuned,MobileNetV2,No,Fine-Tuning,0.7822999954223633,2423242

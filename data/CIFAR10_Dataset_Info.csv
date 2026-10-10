@@ -1,0 +1,11 @@
+class_id,class_name,training_images,test_images,image_shape
+0,airplane,5000,1000,32x32x3
+1,automobile,5000,1000,32x32x3
+2,bird,5000,1000,32x32x3
+3,cat,5000,1000,32x32x3
+4,deer,5000,1000,32x32x3
+5,dog,5000,1000,32x32x3
+6,frog,5000,1000,32x32x3
+7,horse,5000,1000,32x32x3
+8,ship,5000,1000,32x32x3
+9,truck,5000,1000,32x32x3
